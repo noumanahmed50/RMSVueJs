@@ -3,6 +3,8 @@ import SignUp from "./components/SignUp.vue";
 import Login from "./components/Login.vue";
 import AddRestu from "./components/AddRestu.vue";
 import UpdateRestu from "./components/UpdateRestu.vue";
+import AboutUS from "./components/AboutUs.vue";
+
 
 import { createRouter, createWebHistory } from "vue-router";
 
@@ -32,6 +34,11 @@ const routes = [
     component: UpdateRestu,
     path: "/updaterestu/:id",
   },
+  {
+    name:"AboutUS",
+    component:AboutUS,
+    path:"/aboutus",
+  }
 ];
 const router = createRouter({
   history: createWebHistory(),
