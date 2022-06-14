@@ -113,8 +113,20 @@
     {
       "name": "bao g",
       "address": "airport road",
-      "contact": "01230279799",
+      "contact": "012302797998797",
       "id": 3
+    },
+    {
+      "name": "sareena ",
+      "address": "islamabad",
+      "contact": "030430443",
+      "id": 4
+    },
+    {
+      "name": "merit",
+      "address": "isl",
+      "contact": "47397928",
+      "id": 5
     }
   ]
 }
