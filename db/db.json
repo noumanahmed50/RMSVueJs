@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "name": "nouman",
+      "email": "noumanahmedawan50@gmail.com",
+      "password": "motu@123",
+      "id": 1
+    },
+    {
+      "name": "motu",
+      "email": "motu50@gmail.com",
+      "password": "motu@12345",
+      "id": 2
+    },
+    {
+      "name": "nouman",
+      "email": "noumanahmedawan50@gmail.com",
+      "password": "motu@123",
+      "id": 3
+    },
+    {
+      "name": "saqib",
+      "email": "saqib@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "name": "khan",
+      "email": "khan@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "name": "khan",
+      "email": "khan@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "name": "misbah",
+      "email": "misbah@123",
+      "password": "1234567",
+      "id": 7
+    },
+    {
+      "name": "mian",
+      "email": "mian@",
+      "password": "132",
+      "id": 8
+    },
+    {
+      "name": "dasda",
+      "email": "adasd",
+      "password": "s",
+      "id": 9
+    },
+    {
+      "name": "wahid",
+      "email": "wahud@lak",
+      "password": "1243",
+      "id": 10
+    },
+    {
+      "name": "wahid",
+      "email": "wahud@lak",
+      "password": "1243",
+      "id": 11
+    },
+    {
+      "name": "faisal",
+      "email": "faisal@gmail.com",
+      "password": "12345",
+      "id": 12
+    },
+    {
+      "name": "misbah",
+      "email": "misbah@123",
+      "password": "1234567",
+      "id": 13
+    },
+    {
+      "name": "asdf",
+      "email": "afasdf",
+      "password": "asdad",
+      "id": 14
+    },
+    {
+      "name": "nouman",
+      "email": "ahmdsa@`",
+      "password": "asdad",
+      "id": 15
+    },
+    {
+      "name": "asda",
+      "email": "asda",
+      "password": "asda",
+      "id": 16
+    },
+    {
+      "name": "asdas",
+      "email": "asdasda",
+      "password": "asdas",
+      "id": 17
+    },
+    {
+      "name": "nouman",
+      "email": "nouman",
+      "password": "nouman",
+      "id": 18
+    }
+  ],
+  "resturent": [
+    {
+      "name": "bao g",
+      "address": "airport road",
+      "contact": "01230279799",
+      "id": 3
+    }
+  ]
+}
