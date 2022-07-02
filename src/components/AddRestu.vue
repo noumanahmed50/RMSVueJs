@@ -1,5 +1,5 @@
 <template>
-  <Header />
+  <Header/>
 
   <div class="addRestu">
     <form class="add">
